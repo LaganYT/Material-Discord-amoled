@@ -305,12 +305,8 @@ body,
   width: auto;
   height: 22px;
 }
-.wordmark__5b8c9.wordmarkWindows_ffbc5e:before {
-  content: "Material";
-  font-weight: 700;
-}
 .wordmark__5b8c9.wordmarkWindows_ffbc5e:after {
-  content: "Test";
+  content: "Discord";
 }
 .wordmark__5b8c9.wordmarkWindows_ffbc5e svg {
   display: none;
