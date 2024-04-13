@@ -73,8 +73,8 @@ font-family: 'gg sans SemiBold', sans-serif;
 }
 
 .theme-dark {
-  --main-color: #16171a;
-  --main-alt: #0f1012;
+  --main-color: #140A0A;
+  --main-alt: #2D2C2E;
   --accent-hsl--material-you: var(--accent-hsl);
   --accent-text-color--material-you: var(--accent-text-color);
   --server-color: transparent;
