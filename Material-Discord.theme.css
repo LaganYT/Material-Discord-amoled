@@ -13,7 +13,7 @@
 @import url(source.css);
 
 /* Material You addon */
-@import url(material-you.css);
+/*@import url(material-you.css);*/
 
 :root {
 	--accent-hue: 0;
