@@ -8,7 +8,7 @@ font-family: 'gg sans Medium', sans-serif;
 font-family: 'gg sans SemiBold', sans-serif;
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
-  --accent-hue: 224;
+  --accent-hue: 0;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
