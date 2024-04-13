@@ -10,10 +10,10 @@
  * @invite jzJkA6Z
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+@import url(source.css);
 
 /* Material You addon */
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/addons/material-you/source.css);
+@import url(material-you.css);
 
 :root {
 	--accent-hue: 224;
