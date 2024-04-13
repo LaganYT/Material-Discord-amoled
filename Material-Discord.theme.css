@@ -16,7 +16,7 @@
 @import url(material-you.css);
 
 :root {
-	--accent-hue: 224;
+	--accent-hue: 0;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
 	--accent-text-color: #fff;
